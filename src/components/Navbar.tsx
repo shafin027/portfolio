@@ -52,7 +52,7 @@ export function Navbar() {
         {/* Desktop Social Icons + CV */}
         <div className="hidden md:flex items-center gap-4">
           <a
-            href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/edit?usp=sharing&ouid=105063936624724983242&rtpof=true&sd=true"
+            href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/export?format=pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#D7E2EA] text-sm font-medium uppercase tracking-wider hover:opacity-70 transition-opacity border border-[#D7E2EA]/20 px-4 py-1.5 rounded-full"
@@ -60,7 +60,7 @@ export function Navbar() {
             Preview CV
           </a>
           <a
-            href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/edit?usp=sharing&ouid=105063936624724983242&rtpof=true&sd=true"
+            href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/export?format=pdf"
             download
             className="text-[#D7E2EA] text-sm font-medium uppercase tracking-wider hover:opacity-70 transition-opacity border border-[#D7E2EA]/20 px-4 py-1.5 rounded-full"
           >
@@ -118,7 +118,7 @@ export function Navbar() {
                 </a>
               ))}
               <a
-                href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/edit?usp=sharing&ouid=105063936624724983242&rtpof=true&sd=true"
+                href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/export?format=pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#D7E2EA] text-sm font-medium uppercase tracking-wider hover:opacity-70 transition-opacity border border-[#D7E2EA]/20 px-4 py-1.5 rounded-full inline-block"
@@ -126,7 +126,7 @@ export function Navbar() {
                 Preview CV
               </a>
               <a
-                href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/edit?usp=sharing&ouid=105063936624724983242&rtpof=true&sd=true"
+                href="https://docs.google.com/document/d/1_mW4HdYo6vNaeToBxXim8H4s92BO9pGH/export?format=pdf"
                 download
                 className="text-[#D7E2EA] text-sm font-medium uppercase tracking-wider hover:opacity-70 transition-opacity border border-[#D7E2EA]/20 px-4 py-1.5 rounded-full inline-block"
               >
